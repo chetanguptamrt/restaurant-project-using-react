@@ -1,0 +1,19 @@
+{
+  "restaurants": [
+    {
+      "name": "Biggies",
+      "email": "biggies@examples.com",
+      "address": "Meerut",
+      "rating": "9.4",
+      "id": 1
+    }
+  ],
+  "login": [
+    {
+      "id": 1,
+      "name": "Chetan Gupta",
+      "email": "chetangupta@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
